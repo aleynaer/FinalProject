@@ -1,0 +1,14 @@
+unlabeled,labeled
+substitution - missense,10
+deletion - frameshift,3
+substitution - nonsense,11
+unknown,12
+substitution - coding silent,9
+deletion - in frame,4
+insertion - frameshift,6
+insertion - in frame,7
+complex - frameshift,1
+complex - deletion inframe,0
+nonstop extension,8
+complex - insertion inframe,2
+frameshift,5

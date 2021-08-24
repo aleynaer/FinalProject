@@ -1,0 +1,588 @@
+unlabeled,labeled
+ductal carcinoma,173
+papillary carcinoma,439
+anaplastic carcinoma,51
+ns,419
+mixed adenosquamous carcinoma,353
+adenocarcinoma,30
+diffuse large b cell lymphoma,169
+acute lymphoblastic leukaemia,23
+plasma cell myeloma,458
+mucinous carcinoma,376
+compound,148
+congenital,149
+diffuse adenocarcinoma,167
+dysplastic,182
+follicular carcinoma,213
+hepatocellular carcinoma,254
+hyperplastic polyp,269
+intestinal adenocarcinoma,280
+intradermal,283
+admixed hyperplastic polyp-adenoma,39
+non small cell carcinoma,415
+normal,417
+radial growth phase,484
+serrated adenoma,511
+squamous cell carcinoma,542
+vertical growth phase,575
+endometrioid carcinoma,190
+small cell carcinoma,525
+serous micropapillary carcinoma,510
+serous,507
+acute myeloid leukaemia,25
+chronic myeloid leukaemia,126
+acute lymphoblastic t cell leukaemia,24
+myelodysplastic syndrome,384
+juvenile myelomonocytic leukaemia,291
+classic,131
+desmoplastic,165
+acute lymphoblastic b cell leukaemia,22
+acute myeloid leukaemia associated with mds,26
+tubular,563
+superficial spreading,547
+chronic myelomonocytic leukaemia,127
+nodular,412
+serous carcinoma,509
+medullary carcinoma,337
+large cell carcinoma,302
+bronchioloalveolar adenocarcinoma,100
+clear cell carcinoma,134
+ulcerative colitis,568
+hurthle cell tumour,266
+transitional cell carcinoma,557
+hurthle cell carcinoma,265
+well differentiated,583
+seminoma,506
+mixed,351
+giant cell tumour,233
+gastritis,226
+basal cell carcinoma,81
+undifferentiated carcinoma,570
+inverted,288
+storiform pleomorphic,545
+myxoid,395
+giant cell,231
+peripheral t cell lymphoma unspecified,449
+embryonal,184
+acinar adenocarcinoma,1
+anaplastic,50
+villous,576
+tubulovillous,566
+carcinosarcoma-malignant mesodermal mixed tumour,106
+dysplasia-in situ neoplasm,181
+borderline tumour,94
+adenoma,34
+hyperplasia,267
+acute myeloid leukaemia therapy related,28
+follicular lymphoma,215
+chronic lymphocytic leukaemia-small lymphocytic lymphoma,125
+pleomorphic,460
+myelofibrosis,388
+dysplasia-carcinoma in situ,180
+chronic pancreatitis,130
+prl,476
+peritoneal mucinous surface proliferation benign,450
+primary sclerosing cholangitis,475
+peritoneal serous surface proliferation benign,452
+mucinous,374
+mucosal lentiginous,380
+keratoacanthoma,295
+islet cell,289
+peritoneal serous surface carcinoma,451
+acth,7
+foveolar adenocarcinoma,216
+aldosterone producing,44
+non functioning,413
+virilizing syndrome producing,578
+astrocytoma grade i,63
+astrocytoma grade ii,64
+mixed serrated and tubulovillous,369
+acute leukaemia of ambiguous lineage,15
+hodgkin lymphoma,262
+atypical,68
+dysplasia,179
+wart,582
+keratosis,297
+osteoclast-like giant cell carcinoma,434
+hamartoma,248
+myelodysplastic syndrome therapy related,385
+chronic myelomonocytic leukaemia therapy related,128
+plasmacytoma,459
+acral lentiginous,5
+clear cell renal cell carcinoma,138
+peutz-jeghers polyp,453
+endometrioid,188
+anaplastic renal cell carcinoma,53
+combined hepatocellular-cholangiocarcinoma,143
+burkitt lymphoma,101
+signet ring adenocarcinoma,518
+neoplasm,399
+insulinoma,277
+acinar carcinoma,2
+crohn disease,157
+gastric type adenocarcinoma,224
+simple,521
+complex,146
+papillomatosis,443
+mixed carcinoma,354
+tubular adenocarcinoma,564
+hepatoblastoma,253
+dysgerminoma,178
+endometrioid adenocarcinoma,189
+endocervical adenocarcinoma,186
+mixed adenocarcinoma,352
+giant cell carcinoma,232
+adenosquamous carcinoma,38
+inflammatory epithelia,274
+inflammation,273
+solid pseudopapillary neoplasm,528
+mixed serous and endometrioid carcinoma,368
+adult t cell lymphoma-leukaemia,40
+dedifferentiated,163
+hurthle cell adenoma,264
+actinic keratosis,13
+leukoplakia-hyperplakia-erythroplakia,307
+endometrial polyp,187
+spitz,539
+mucoepidermoid carcinoma,379
+lentigo maligna,306
+spindle epithelial tumour with thymus like differentiation,536
+nk-t cell lymphoma,411
+lobular carcinoma,313
+papillary renal cell carcinoma,441
+oligodendroglioma,427
+epithelioid,198
+spindle and epithelioid,533
+mast cell neoplasm,336
+astrocytoma grade iv,66
+mixed medullary and follicular carcinoma,362
+choroid plexus carcinoma,120
+transitional,556
+pineoblastoma,456
+osteoblastic,433
+acth-fsh-gh-lh-prl,9
+astrocytoma grade iii,65
+chondroblastic,114
+spindle,532
+mantle cell lymphoma,334
+oligoastrocytoma grade iv,426
+ependymoma grade ii,194
+typical,567
+complex-atypical,147
+oligodendroglioma grade iii,429
+vulvar intraepithelial neoplasia grade i,580
+vulvar intraepithelial neoplasia grade iii,581
+gliosarcoma,236
+mixed endometrioid and clear cell carcinoma,357
+mixed serous and endometrioid and clear cell carcinoma,367
+merkel cell carcinoma,344
+gliomatosis cerebri,235
+b cell lymphoma unspecified,75
+oligodendroglioma grade ii,428
+solitary cyst,529
+simple-atypical,522
+pilomatricoma,455
+fetal adenocarcinoma,206
+solid and cystic tumour,526
+adamantinomatous,29
+bilateral,87
+unilateral,571
+ameloblastoma,49
+blastoma,92
+cervical intraepithelial neoplasia grade i,112
+cervical intraepithelial neoplasia grade iii,113
+junctional,290
+psammocarcinoma,478
+spitzoid,540
+mixed intestinal and diffuse adenocarcinoma-unclassifiable,359
+intraepithelial neoplasia,286
+acth-fsh-lh,10
+acth-fsh,8
+acth-fsh-lh-alpha su,11
+fsh-lh--alpha su,218
+in situ melanotic neoplasm,272
+non seminoma,414
+ependymoma grade iii-iv,195
+ductal carcinoma in situ,174
+biphasic,89
+blast phase chronic myeloid leukaemia,90
+polycythaemia vera,464
+essential thrombocythaemia,203
+mixed serous and clear cell carcinoma,366
+renal cell carcinoma,486
+embryonal carcinoma,185
+adenoid cystic carcinoma,33
+malignant adnexal tumour,329
+myeloproliferative neoplasm,390
+salivary duct carcinoma,495
+basaloid carcinoma,83
+mucinous adenocarcinoma,375
+nasopharyngeal carcinoma,398
+small cell adenocarcinoma,524
+yolk sac tumour,586
+teratoma,553
+astrocytoma,62
+metaplasia,347
+renal cell,485
+spindle cell,534
+clear granular,139
+granular,240
+granular and spindle cell,241
+granular cell,242
+mixed clear and granular cell,356
+oncocytic,430
+alveolar granular cell,46
+chromophobe,121
+papillary,437
+chromophobe cell,122
+conventional (clear cell),152
+cystic clear cell,160
+pancreatoblastoma,436
+renal cell carcinoma unclassified,487
+seborrhoeic keratosis,503
+clear cell papillary cystadenoma,136
+malignant,328
+benign,85
+oligoastrocytoma grade ii,424
+chromophobe renal cell carcinoma,123
+oncocytoma,432
+lymphoepithelioma like carcinoma,324
+juvenile polyp,292
+liponeurocytoma,312
+lobular carcinoma in situ,314
+atypical lobular hyperplasia,70
+ductal and lobular carcinoma in situ,172
+undifferentiated adenocarcinoma,569
+granulosa cell tumour,244
+acute leukaemic transformation of polycythaemia vera,20
+acute leukaemic transformation of essential thrombocythaemia,18
+myeloproliferative neoplasm unclassifiable,391
+myelodysplastic-myeloproliferative neoplasm-unclassifiable,387
+chronic eosinophilic leukaemia-hypereosinophilic syndrome,124
+chronic neutrophilic leukaemia,129
+splanchnic vein thrombosis,541
+idiopathic erythrocytosis,271
+nephrogenic rest,401
+multicystic,381
+glucagonoma,238
+hashimotos thyroiditis,249
+gastrinoma,225
+gh-prl,229
+tsh,561
+t cell prolymphocytic leukaemia,550
+post transplant lymphoproliferative disorder,467
+vipoma,577
+cylindroma,159
+trichoepithelioma,560
+fibroblastic,208
+meningothelial,343
+angiomatous,56
+choroid,119
+clear cell,132
+psammomatous,479
+oligoastrocytoma grade iii,425
+oligoastrocytoma,423
+common hard,144
+common soft,145
+papilloma,442
+alveolar,45
+acute leukaemic transformation of primary myelofibrosis,21
+plexiform,462
+hyperplastic,268
+large cell,301
+odontogenic carcinoma,420
+flat urothelial,211
+mucinous proliferation,378
+other,435
+acute leukaemia of ambiguous lineage associated with mds,16
+secondary erythrocytosis,504
+cavernous,107
+malt lymphoma,332
+mycosis fungoides-sezary syndrome,383
+insular carcinoma,276
+gh,227
+leydig cell tumour,308
+mixed papillary and follicular carcinoma,363
+seborrhoeic,502
+ameloblastic carcinoma,48
+benign stromal nodule,86
+metaplastic carcinoma,348
+langerhans cell histiocytosis,299
+acrokeratosis verruciformis like,6
+goblet cell,239
+acute leukaemic transformation of myeloproliferative neoplasm,19
+carcinosarcoma,105
+apparent erythrocytosis,59
+nasal polyp,397
+multihormonal,382
+gh-prl-alpha su,230
+gh-alpha su,228
+fsh-lh,217
+barrett oesophagus,77
+precursor t cell lymphoblastic lymphoma,470
+cortisol producing,155
+malignant blue nevus,330
+blue,93
+nevus of ota,408
+acinar-ductal metaplasia,3
+myxoid-round cell,396
+actinic cheilitis,12
+micropapillary adenocarcinoma,350
+ductal epithelial hyperplasia-hyperplasia of usual type,175
+trichoblastoma,559
+inflammatory fibroid polyp,275
+choriocarcinoma,118
+ductolobular carcinoma,176
+fibroma-thecoma-fibrothecoma,210
+primary effusion lymphoma,473
+atypical spitzoid tumour,71
+sarcomatoid carcinoma,496
+acute leukaemic transformation of chronic myelomonocytic leukaemia,17
+autoimmune pancreatitis,73
+alcoholic pancreatitis,42
+ganglioglioma,223
+pleomorphic carcinoma,461
+phyllodes tumour,454
+basal (triple-negative) carcinoma,78
+luminal ns carcinoma,320
+marginal zone lymphoma,335
+lentiginous nevus,305
+oncocytic adenocarcinoma,431
+atypical ductal hyperplasia,69
+er-her-positive carcinoma,199
+spiradenocylindroma,537
+granulocytic sarcoma,243
+primary central nervous system lymphoma,471
+haemangiopericytic,246
+papillary adenocarcinoma,438
+myoepithelial,392
+keloid,294
+bowen disease,95
+pterygium,482
+anaplastic large cell lymphoma,52
+fibroadenoma,207
+brenner tumour,99
+poorly differentiated carcinoma,465
+pneumocytoma (sclerosing haemangioma),463
+central neurocytoma,110
+lymphomatoid papulosis,325
+hairy cell leukaemia,247
+pingueculum,457
+ex-pleomorphic adenoma carcinoma,204
+glandular intraepithelial neoplasia grade iii,234
+solitary fibrous tumour,530
+spindle cell carcinoma,535
+acinic cell carcinoma,4
+large cell undifferentiated carcinoma,304
+ependymoma,193
+oesophagitis,421
+mixed cell carcinoma,355
+serous adenocarcinofibroma,508
+luminal b carcinoma,319
+er-positive carcinoma,200
+unusual sub-type,572
+monophasic,373
+her-positive carcinoma,257
+myelodysplastic-myeloproliferative neoplasm,386
+amelanotic,47
+serrated fibroblastic polyp-intramucosal perineurioma,513
+serrated carcinoma,512
+central,109
+diffuse interstitial cell of cajal hyperplasia,168
+autoimmune leukoproliferative disease,72
+peripheral,448
+aids related lymphoma,41
+nk cell leukaemia,410
+ependymoblastoma grade iv,192
+er-pr-positive carcinoma,202
+epithelial,196
+er-pr-her-positive carcinoma,201
+conventional,151
+blastic plasmacytoid dendritic cell neoplasm,91
+angioimmunoblastic t cell lymphoma,54
+cutaneous t cell lymphoma,158
+melanocytic tumour,340
+pr-her-positive carcinoma,468
+chondroblastoma,115
+basal cell,79
+dysembryoplastic neuroepithelial tumour,177
+sertoli cell tumour,514
+chondroma,116
+periosteal,447
+rosette-forming glioneuronal tumour,494
+mixed serous and clear cell and mucinous carcinoma,365
+low grade cartilaginous tumour,316
+microcystic stromal tumour,349
+adenofibroma,32
+large cell neuroendocrine carcinoma,303
+cystic tumour,162
+sertoli-leydig cell tumour,515
+solid pseudopapillary carcinoma,527
+wnt subtype,584
+shh subtype,517
+nested stromal epithelial tumour,402
+primary cutaneous diffuse large b cell lymphoma leg type,472
+lichenoid keratosis,309
+b cell prolymphocytic leukaemia,76
+mixed small cell carcinoma-adenocarcinoma,370
+lymphoplasmacytic lymphoma,326
+monoclonal gammopathy of undetermined significance,372
+nevus marginatus,407
+nevus sebaceous,409
+syringocystadenoma papilliferum,548
+trichilemmoma,558
+t cell large granular lymphocytic leukaemia,549
+squamous cell carcinoma braf inhibitor related,543
+verrucal keratosis braf inhibitor related,574
+pseudomyxoma peritonei,481
+pyloric gland,483
+intestinal,279
+cellular,108
+neuroendocrine carcinoma,404
+juvenile xanthogranuloma,293
+acute myeloid leukaemia myelodysplastic syndrome therapy related nos,27
+rhabdoid,489
+low grade mucinous neoplasm,317
+angiomyolipoma,58
+heterotopic gastric mucosa,258
+sarcomatous-fibrous,497
+tuberous sclerosis tuber,562
+lymphangioleiomyomatosis,321
+bile duct stenosis,88
+secretory,505
+fundic gland type adenocarcinoma,220
+fetal,205
+sclerosing stromal tumour,499
+myxofibrosarcoma,394
+gangliocytoma,222
+cribriform neuroepithelial tumour,156
+spiradenoma,538
+mixed renal cell carcinoma,364
+myoepithelial carcinoma,393
+thrombocytosis,555
+adenomyoma,35
+aldosterone and cortisol-producing,43
+shagreen patch,516
+intraductal papillary neoplasm,285
+lobular endocervical glandular hyperplasia,315
+basal cell carcinosarcoma,82
+proteus syndrome,477
+linear verrucous,310
+signet ring cell adenocarcinoma,519
+high grade surface,261
+parosteal,444
+sebaceous carcinoma,501
+columnar cell lesion,142
+papillary glioneuronal tumour,440
+sebaceous adenoma,500
+sclerosing,498
+rhabdoid renal cell carcinoma,491
+langerhans cell sarcoma,300
+malignant histiocytosis,331
+follicular dendritic cell sarcoma,214
+high grade mucinous neoplasm,260
+mucinous neoplasm,377
+b cell lymphoma unclassifiable with features intermediate between dlbcl and burkitt lymphoma,74
+luminal a carcinoma,318
+normal-like carcinoma,418
+woolly hair nevus,585
+cystic nephroma,161
+enteropathy type t cell lymphoma,191
+lipoma,311
+congenital pulmonary malformation,150
+chondromesenchymal hamartoma,117
+functioning,219
+medullomyoblastoma,338
+hepatosplenic t cell lymphoma,256
+keratoacanthoma braf inhibitor related,296
+acanthoma braf inhibitor related,0
+cortisol and virilizing syndrome-producing,154
+fibrolamellar carcinoma,209
+telangiectatic,551
+small cell,523
+clear cell papillary renal cell carcinoma,137
+angiomyoadenomatous tumour,57
+mixed undifferentiated and squamous cell carcinoma,371
+mixed langerhans cell histiocytosis-juvenile xanthogranuloma,360
+primary myelofibrosis,474
+adenocarcinoma-unclassifiable,31
+mixed lymphoepithelial,361
+cortical,153
+epithelial predominant,197
+gynandroblastoma,245
+pr-positive carcinoma,469
+rhabdoid glioblastoma,490
+glomangiopericytoma,237
+cloves syndrome,140
+lymphangioma,322
+vascular malformation,573
+hepatic small vessel neoplasm,252
+signet ring stromal cell tumour,520
+astroblastoma grade iii,61
+cervical intraepithelial neoplasia,111
+capillary,102
+basal cell adenocarcinoma,80
+lacrimal ductal carcinoma,298
+neuromuscular choristoma,405
+adenosis,37
+hidradenoma papilliferum,259
+clear cell adenocarcinofibroma,133
+focal cortical dysplasia,212
+adenosarcoma,36
+teratoma with malignant transformation,554
+of unknown primary,422
+diffuse red pulp small b cell lymphoma,171
+interdigitating dendritic cell sarcoma,278
+somatostatinoma,531
+gangliocytic,221
+myeloid neoplasm unspecified therapy related,389
+carcinoma in situ,104
+ring,492
+astroblastoma,60
+tubulocystic renal cell carcinoma,565
+mixed endometrioid and serous and sarcomatoid carcinoma,358
+dedifferentiated carcinoma,164
+macrodactyly,327
+hemihyperplasia-multiple lipomatosis,250
+vulvar intraepithelial neoplasia,579
+dysplastic megalencephaly,183
+penile intraepithelial neoplasia grade 3,445
+neoplasm of the pigmented ciliary epithelium,400
+megalencephaly-capillary malformation,339
+rosai-dorfman disease,493
+clear cell odontogenic carcinoma,135
+intimal sarcoma,281
+carcinoid-endocrine tumour,103
+melanotic,342
+renal medullary carcinoma,488
+mammary analogue secretory carcinoma of salivary glands,333
+mesenchymal,345
+collecting duct carcinoma,141
+steroid cell tumour,544
+mesonephric carcinoma,346
+pseudomyogenic,480
+teratoid tumour,552
+basosquamous carcinoma,84
+melanosis,341
+nevoid,406
+poroma,466
+hormone receptor-positive carcinoma,263
+perifollicular fibroma,446
+subependymal nodule,546
+non wnt-non shh subtype,416
+hypomelanotic macule,270
+hemimegalencephaly,251
+intracholecystic papillary neoplasm,282
+intraductal carcinoma,284
+lymphocyte predominant,323
+diffuse midline glioma,170
+breast implant associated anaplastic large cell lymphoma,96
+breast implant associated anaplastic large cell lymphoma in situ,97
+desmoplastic infantile ganglioglioma,166
+atrophy,67
+neuroendocrine,403
+breast implant associated anaplastic large cell lymphoma invasive,98
+hepatoid adenocarcinoma,255
+acute basophilic leukaemia,14
+intravascular leiomyomatosis,287
+angiokeratoma,55
