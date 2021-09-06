@@ -1,4 +1,4 @@
-# FinalProject
+# GENE - MUTATION - DISEASE ANALYSIS with ML
 
 Gen-Mutasyon Hastalık Analizi projesi kapsamında COSMIC internet sitesindeki veri setleri incelenmiş, seçilen veri setlerine yönelik tahminleme
 modelleri oluşturulmuştur.
